@@ -1,4 +1,4 @@
-### Hi Stranger 🌎
+### Hi, Stranger 🌎
 I'm attending the third year Science Computing at Universidade Presbiteriana Mackenzie. Parallel to my graduation, I'm doing a data analysis internship program at Itaú Unibanco where I develop activities like data preparing and visualization. Below you will find some subjects which I'm very interested:
   - Data analysis, science and engineering;
   - Big data;
@@ -10,3 +10,7 @@ Estou cursando o terceiro ano de Ciência da Computação na Universidade Presbi
   - Análise, ciência e engenharia de dados;
   - Big data;
   - Python, Julia, SQL e C;
+
+
+### Número de Visitantes
+![Visitor Count](https://profile-counter.glitch.me/leonardosantosrocha/count.svg)
