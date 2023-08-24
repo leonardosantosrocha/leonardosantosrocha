@@ -1,17 +1,22 @@
-### Olá, mundo!
+## 👤 Sobre mim
+- 👨🏻‍🔬 Engenheiro de Analytics JR no Itaú Unibanco
+- 👨🏻‍💻 Estudante de Ciência da Computação no Mackenzie
 
-Durante o dia sou engenheiro de analytics no @Itaú e durante a noite estudante de Ciência da Computação no @Mackenzie.
 
-Com a chegada do último ano da graduação, estou participando de um projeto de identificação de pessoas no contexto de smart cities.
+## ✉️ Contatos
+<code><a target="_blank" href="mailto:leonardo.rocha.2018@outlook.com">![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a></code>
+<code><a target="_blank" href="https://www.linkedin.com/in/leonardosantosrocha/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a></code>
+<code><a target="_blank" href="mailto:leonardo.rocha.2018@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a></code>
 
-Em breve pretendo trazê-lo para cá, enquanto isso, recomendo que veja os projetos em destaque.
 
-Caso tenha interesse em saber quais ferramentas utilizo no dia a dia, segue uma breve lista.
+## ⚙️ Ferramentas e tecnologias
+<code>![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)</code>
+<code>![SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)</code>
+<code>![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)</code>
+<code>![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)</code>
+<code>![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)</code>
+<code>![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)</code>
 
-<div>
-  <img style="width:30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg">
-  <img style="width:30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg">
-  <img style="width:30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg">
-  <img style="width:30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg">
-  <img style="width:30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg">
-</div>
+
+## 🏅 Certificações
+<code><a target="_blank" href="https://www.credly.com/earner/earned/badge/f0f54c03-c2a4-4893-b19d-c6a077135a14"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png" width="100" height="100" /></a></code>
