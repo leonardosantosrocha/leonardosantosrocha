@@ -20,3 +20,5 @@
 
 ## 🏅 Certificações
 <code><a target="_blank" href="https://www.credly.com/earner/earned/badge/f0f54c03-c2a4-4893-b19d-c6a077135a14"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png" width="100" height="100" /></a></code>
+<code><a target="_blank" href="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100" /></a></code>
+
