@@ -1,9 +1,9 @@
-## 👤 About me
+## 👤 About Me
 - 👨🏻‍🔬 Analytics Engineer at Itaú Unibanco
 - 👨🏻‍💻 Computer Scientist at Mackenzie
 
 
-## ✉️ Contact me
+## ✉️ Contact Me
 <code><a target="_blank" href="mailto:leonardo.rocha.2018@outlook.com">![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a></code>
 <code><a target="_blank" href="https://www.linkedin.com/in/leonardosantosrocha/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a></code>
 <code><a target="_blank" href="mailto:leonardo.rocha.2018@outlook.com">![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a></code>
