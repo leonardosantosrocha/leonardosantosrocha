@@ -5,7 +5,7 @@ Hi, I'm Léo! A curious and restless 22 years old guy, fully passionate by progr
 
 
 ## ⚙️ Technologies
-As an ex-computer science student and working as an analytics engineer I have developed a solid knowledge about:
+As an computer science student and working as an analytics engineer I have developed a solid knowledge about:
 - ☁️ AWS Cloud Platform (Athena, Glue and Quicksight)
 - 🐍 Python (Development of scripts to automate ETL routines)
 - 🎲 SQL (Data manipulation and analysis using different data sources)
