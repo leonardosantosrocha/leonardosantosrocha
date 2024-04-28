@@ -1,16 +1,10 @@
-## 👤 About Me
-Hi, I'm Léo! A curious and restless 22 years old guy, fully passionate by programming and development, currently learning about:
-- 🤖 Machine Learning Algorithms
-- 🎲 Object-Oriented Programming and Data Structures
-
+## 👤 Hi, I am Leonardo!
+An analytics engineer and computer scientist with over three years of experience. For most of my career, I worked on projects focused on data manipulation and automations development. I am currently studying an MBA in Data Science and Artificial Intelligence, seeking to improve my knowledge in statistics, data analysis applied to business and machine learning.
 
 ## ⚙️ Technologies
-As an computer science student and working as an analytics engineer I have developed a solid knowledge about:
-- ☁️ AWS Cloud Platform (Athena, Glue and Quicksight)
-- 🐍 Python (Development of scripts to automate ETL routines)
-- 🎲 SQL (Data manipulation and analysis using different data sources)
-
+- ☁️ AWS focusing on analytics services such as Athena, Glue and Quicksight.
+- 🎲 Python and SQL for data manipulation and automation development.
 
 ## 🏆 Certifications
-- 🥇 AWS Solutions Architecht Associate
-- 🥈 AWS Cloud Practitioner
+- 🥇 AWS Solutions Architect Associate.
+- 🥈 AWS Cloud Practitioner.
