@@ -1,22 +1,13 @@
-## 📍 Olá, mundo ?!
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" style="height:15px; width=30px"> Olá, mundo!
 
-◽ Prazer em conhecê-lo(a), me chamo Leonardo, tenho 22 anos, e desde a minha adolescência faço parte desse mundo, um tanto quanto diferente, chamado programação!
+👨🏻‍💻 Sou um Engenheiro de Analytics e Cientista da Computação com sólidos conhecimentos no processo de coleta, preparação e storytelling com dados! Há mais de 3 anos ajudo times de negócios a interpretarem seus dados e, com isso, tomarem as melhores decisões sobre os produtos da área de cartões do maior banco da América Latina.
 
-## 👨🏻‍💻 Com o que eu trabalho ?
-◽ No momento, trabalho como Engenheiro de Analytics no maior banco da América Latina, onde ajudo os times de negócios/produtos a responderem diversas perguntas através do desenvolvimento de produtos de dados - bases especializadas e relatórios. 
+⚙️ Possuo ampla experiência com os serviços de analytics da AWS, como, por exemplo, AWS Athena e Glue para preparação de dados com Python e SQL, AWS Step Functions para orquestração e AWS QuickSight para construção de dashboards interativos. Além disso, possuo duas certificações, Cloud Practitioner e Solutions Architect Associate.
 
-◽ Durante a minha jornada, desenvolvi habilidades que julgo essenciais para qualquer Engenheiro de Analytics, ou, funções similares que tenham como principal objetivo apoiar os times de negócios/produtos por meio do uso de dados.
+<br/>
 
-🐍 Python e SQL para construção de scripts de extração, tratamento e disponibilização de dados.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/World_Flag_%282004%29.svg/2560px-World_Flag_%282004%29.svg.png" style="height:15px; width=30px"> Hello, world!
 
-📊 Tableau e Quicksight para expor os indicadores de modo a responder as perguntas do negócio.
+👨🏻‍💻 I am an Analytics Engineer and Computer Scientist with solid knowledge in the process of data collection, preparation, and storytelling! For over 3 years, I have been helping business teams interpret their data, enabling them to make the best decisions regarding card products at the largest bank in Latin America.
 
-⭐ Comunicação e empatia para entender as necessidades e negociar tempos e momentos dos projetos.
-
-## 📚 Quais são as minhas áreas de interesse ?
-◽ Além disso, sou Cientista da Computação, e adoro usar o meu tempo livre para desenvolver projetos pessoais que facilitem o meu dia a dia, como por exemplo, o Mangapy, um programa em Python que busca e compila os meus mangás favoritos de maneira autônoma!
-
-◽ Por fim, sou um grande entusiasta de Computação em Nuvem, onde especificamente tenho duas certificações, AWS Cloud Practitioner e AWS Solutions Architect, e também do uso Inteligência Artificial para solução de problemas, ramo no qual tenho aprendido bastante no meu MBA de Data Science e AI.
-
-## 💬 Algo te chamou a atenção ?
-◽ Fique à vontade pra entrar em contato, e vamos aprender juntos!
+⚙️ I have extensive experience with AWS analytics services, such as AWS Athena and Glue for data preparation using Python and SQL, AWS Step Functions for orchestration, and AWS QuickSight for building interactive dashboards. Additionally, I hold two certifications: Cloud Practitioner and Solutions Architect Associate.
