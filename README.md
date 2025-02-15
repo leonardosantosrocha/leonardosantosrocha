@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/World_Flag_%282004%29.svg/2560px-World_Flag_%282004%29.svg.png" style="height:15px; width=30px"> Hello, world!
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Flag_of_the_United_Kingdom_%281806%29.svg/2560px-Flag_of_the_United_Kingdom_%281806%29.svg.png" style="height:15px; width=30px"> Hello, world!
 
 👨🏻‍💻 I am an Analytics Engineer and Computer Scientist with solid knowledge in the process of data collection, preparation, and storytelling! For over 4 years, I have been helping business teams interpret their data, enabling them to make the best decisions regarding card products at the largest bank in Latin America.
 
