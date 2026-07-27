@@ -1,13 +1,28 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2560px-Flag_of_Brazil.svg.png" style="height:15px; width=30px"> Olá, mundo!
+👊🏻 Senior Data Engineer with 5+ years of experience designing and scaling data products, analytics solutions, and cloud-based data platforms at Itaú Unibanco, the largest financial institution in Latin America. 
 
-👨🏻‍💻 Sou um Engenheiro de Analytics e Cientista da Computação com sólidos conhecimentos no processo de coleta, preparação e storytelling com dados! Há mais de 4 anos ajudo times de negócios a interpretarem seus dados e, com isso, tomarem as melhores decisões sobre os produtos da área de cartões do maior banco da América Latina.
+🚀 Currently, I am particularly working in AI agents development to simplify access to data and business indicators for non-technical users while maintaining strong standards for governance, reliability, and data quality.
 
-⚙️ Possuo ampla experiência com os serviços de analytics da AWS, como, por exemplo, AWS Athena e Glue para preparação de dados com Python e SQL, AWS Step Functions para orquestração e AWS QuickSight para construção de dashboards interativos. Além disso, possuo duas certificações, Cloud Practitioner e Solutions Architect Associate.
+🗺 Throughout my career, I have helped product, analytics, and business teams transform raw data into reliable, governed, and actionable insights through scalable data pipelines, cloud-native architectures, and data-driven solutions.
 
-<br/>
+🎲 My experience spans Analytics Engineering, Data Engineering, Data Governance, FinOps with a strong focus on building cost-efficient and high-quality data ecosystems that support strategic decision-making.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Flag_of_the_United_Kingdom_%281806%29.svg/2560px-Flag_of_the_United_Kingdom_%281806%29.svg.png" style="height:15px; width=30px"> Hello, world!
+📚 I hold a Bachelor's degree in Computer Science at the University Mackenzie, an MBA in Data Science & Artificial Intelligence at the FIAP, and I am currently pursuing a specialization in Data Engineering at the University of São Paulo.
 
-👨🏻‍💻 I am an Analytics Engineer and Computer Scientist with solid knowledge in the process of data collection, preparation, and storytelling! For over 4 years, I have been helping business teams interpret their data, enabling them to make the best decisions regarding card products at the largest bank in Latin America.
+🎯 Areas of expertise: <br/>
+→ Data Architecture <br/>
+→ Data Engineering <br/>
+→ Data Governance <br/>
+→ Data Quality <br/>
+→ FinOps <br/>
 
-⚙️ I have extensive experience with AWS analytics services, such as AWS Athena and Glue for data preparation using Python and SQL, AWS Step Functions for orchestration, and AWS QuickSight for building interactive dashboards. Additionally, I hold two certifications: Cloud Practitioner and Solutions Architect Associate.
+💻 Technologies: <br/>
+→ AWS (Athena, Glue, S3, Step Functions and Quicksight) <br/>
+→ Python (API, PySpark and SparkSQL) <br/>
+→ Spark <br/>
+→ SQL <br/>
+→ Terraform <br/>
+
+🎖 Certifications:
+→ AWS Certified Solutions Architect - Associate <br/>
+→ AWS Certified Artificial Intelligence - Practitioner <br/>
+→ AWS Certified Cloud - Practitioner <br/>
